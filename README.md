@@ -27,11 +27,11 @@
   - Grillspyd heo nuong (Danny)
   - Grillspyd grøntsager (Danny)
   - Bun tuoi
-  - Blandede salat g krydderurter
+  - Blandede salat g krydderurter (Minh)
   - Nuoc mam
   - Che thai (1 dåse frugt af hver, husk tapioca mel)
-  - Lagkage
-  - Cup cake
+  - Kagemand (Spørg Sophia om hjælp til bestilling)
+  - Cup cakes
 </details>  
 
 <details>
@@ -41,7 +41,7 @@
   - Pomme frites
   - Ketchup
   - Mayo
-  - Juice Caprisonne
+  - Capri-Sun Juice
 </details>
 
 <details>
