@@ -24,12 +24,12 @@
   - Sup man cua (Mormor)
   - Goi bo (Minh)
   - Grillspyd nem nuong (Danny) [opskrift](https://github.com/Eo-Le-LearnToHack/Opskrift/blob/main/NemNuong.md)
-  - Grillspyd heo nuong (Danny)
+  - Grillspyd heo nuong (Danny) [opskrift](https://github.com/Eo-Le-LearnToHack/Opskrift/blob/main/ThitHeoNuong.md)
   - Grillspyd grøntsager (Danny)
   - Bun tuoi
   - Blandede salat g krydderurter (Minh)
   - Nuoc mam
-  - Che thai (1 dåse frugt af hver, husk tapioca mel)
+  - Che thai 
   - Kagemand (Spørg Sophia om hjælp til bestilling)
   - Cup cakes
 </details>  
@@ -37,8 +37,8 @@
 <details>
   <summary>Børnemenu</summary>
   
-  - Nuggets
-  - Pomme frites
+  - Nuggets (Danny)
+  - Pomme frites (Danny)
   - Ketchup
   - Mayo
   - Capri-Sun Juice
@@ -50,10 +50,10 @@
   - Nova, Emmalie, Nathalie, Tobias, Mason, Mia, Jacky, Felix = 8 poser
   - 1 pk rosin
   - 1 slikkepind
-  - 1 kiks (mini cream kiks fra Bilka)
+  - 1 kiks
   - 1 pk Maoam
   - Andet slik
-  - legetøj
+  - Legetøj
 </details>  
 
 <details>
@@ -70,14 +70,28 @@
   - engangsspisepinde
   - engangsskeer
   - paptallerkner
+  - plastic krus
 </details>  
 
 <details>
   <summary>Indkøbsliste</summary>
   
-  -  sølvbakker
-  -  plastic krus
-  -  parasol fra Jydsk
-  -  kul
-  -  havemøbler fra Bé
+  - Sølvbakker
+  - Plastic krus
+  - Parasol fra Jydsk
+  - Havemøbler fra Bé
+  - 1 dåse frugt af hver
+  - Tapioca mel
+  - Nuggets
+  - Pomme frites
+  - Ketchup
+  - Mayo
+  - Capri-Sun Juice (Bazar Tilst)
+  - 1 pk rosin
+  - 1 slikkepind
+  - 1 kiks (mini cream kiks fra Bilka)
+  - 1 pk Maoam
+  - Andet slik
+  - Stort plastic krus
+  - Stor plastic spiseskeer
 </details>  
