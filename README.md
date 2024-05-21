@@ -25,9 +25,9 @@
   - Goi bo (Minh)
   - Grillspyd nem nuong (Danny) [opskrift](https://github.com/Eo-Le-LearnToHack/Opskrift/blob/main/NemNuong.md)
   - Grillspyd heo nuong (Danny) [opskrift](https://github.com/Eo-Le-LearnToHack/Opskrift/blob/main/ThitHeoNuong.md)
-  - Grillspyd grøntsager (Danny)
+  - Grillspyd grøntsager (Danny) [opskrift](https://github.com/Eo-Le-LearnToHack/Opskrift/blob/main/GoiBo.md)
   - Bun tuoi
-  - Blandede salat g krydderurter (Minh)
+  - Blandede salat og krydderurter (Minh)
   - Nuoc mam
   - Che thai 
   - Kagemand (Spørg Sophia om hjælp til bestilling)
