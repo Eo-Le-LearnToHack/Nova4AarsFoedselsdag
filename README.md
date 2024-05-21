@@ -76,6 +76,7 @@
 <details>
   <summary>Indkøbsliste</summary>
   
+  - 2 Liter olie
   - Sølvbakker
   - Plastic krus
   - Parasol fra Jydsk
@@ -87,10 +88,10 @@
   - Ketchup
   - Mayo
   - Capri-Sun Juice (Bazar Tilst)
-  - 1 pk rosin
-  - 1 slikkepind
-  - 1 kiks (mini cream kiks fra Bilka)
-  - 1 pk Maoam
+  - 8 pk rosin
+  - 8 slikkepind
+  - 8 kiks (mini cream kiks fra Bilka)
+  - 8 pk Maoam
   - Andet slik
   - Stort plastic krus
   - Stor plastic spiseskeer
