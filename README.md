@@ -1,3 +1,7 @@
+<picture>
+  <img align="left" width="100" height="150" alt="Picture of nem nuong" src="https://ih1.redbubble.net/image.2518438970.7660/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg">
+</picture>  
+
 # Nova 4 års fødselsdag
 ## Lørdag 25.05.2024  
 
